@@ -7,5 +7,6 @@ router.get('/', function(req, res, next) {
   res.render('index', { title: "Simple Application" });
 });
 
+/* New branch link. */
 
 module.exports = router;
